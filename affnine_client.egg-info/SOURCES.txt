@@ -1,0 +1,9 @@
+README.md
+setup.py
+affnine_client/__init__.py
+affnine_client/affnine.py
+affnine_client/afn_client.py
+affnine_client.egg-info/PKG-INFO
+affnine_client.egg-info/SOURCES.txt
+affnine_client.egg-info/dependency_links.txt
+affnine_client.egg-info/top_level.txt
